@@ -7,6 +7,7 @@ public class Main {
 
     //A1
         System.out.println();
+        //Skriv noget her min ven!
 
 
 	  
