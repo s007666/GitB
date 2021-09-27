@@ -6,7 +6,7 @@ public class Main {
 	// write your code here
 
     //A1
-
+        System.out.println(Fejl);
 
 
 
